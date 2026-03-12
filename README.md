@@ -224,6 +224,14 @@ https://pub.dev/packages/dev_loggers_flutter
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
 # 👀 Profile Visitors
 
 <p align="center">
