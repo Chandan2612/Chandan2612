@@ -1,5 +1,5 @@
 <!-- ================================================= -->
-<!-- 🔥 SUPER ANIMATED GITHUB PROFILE -->
+<!-- 🚀 SUPER ANIMATED GITHUB PROFILE README -->
 <!-- ================================================= -->
 
 <div align="center">
@@ -8,7 +8,7 @@
 
 ### 🚀 Flutter Developer | Mobile Engineer | API Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Mobile+App+Engineer;Backend+Developer;Chrome+Extension+Developer;Always+Learning+New+Tech"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Flutter+Developer;Mobile+App+Engineer;Backend+Developer;Chrome+Extension+Developer;Dart+Package+Creator;Always+Learning+New+Tech"/>
 
 </div>
 
@@ -16,75 +16,179 @@
 
 # 🧠 About Me
 
+Flutter developer experienced in building **production mobile applications** with scalable architecture and performance optimization.
+
+I focus on building **clean, maintainable, and scalable applications** using modern development practices.
+
 ```text
-💻 Flutter Developer building scalable mobile apps
-📱 Mobile engineer focused on performance
-⚡ Backend development with FastAPI
-🧠 Learning system design & scalable architecture
-🛠 Building developer tools
+💻 Flutter developer building scalable mobile apps
+📱 Focused on performance, UI/UX and production-ready apps
+⚡ Backend development with Python FastAPI
+🧠 Interested in system design and architecture
+🛠 Building developer tools, Chrome extensions & Dart packages
 ```
 
 ---
 
 # 🧰 Tech Stack
 
-### Mobile
+### 📱 Mobile Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" />
 </p>
 
 ---
 
-### Android
+### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=kotlin" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ---
 
-### Backend
+### ⚙ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,postgres" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres" />
 </p>
 
 ---
 
-### Tools
+### 🛠 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=firebase,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,postman" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🧠 Flutter & Dart Expertise
 
-## 📱 Herody App
+## 📱 Flutter Development
 
-Flutter production app featuring
+I build **production-grade Flutter applications** focusing on performance, scalability, and maintainability.
 
-• Daily rewards  
-• Wallet system  
-• Referral engine  
-• Offer automation  
-• Analytics tracking  
+### State Management
+
+• BLoC / Cubit  
+• Provider  
+• ChangeNotifier  
+• Separation of UI and business logic  
+
+### Architecture
+
+• MVVM architecture
+• Service layer architecture  
+• Repository pattern  
+• Feature-based folder structure  
+
+### UI Development
+
+• Responsive UI  
+• Custom animations  
+• Shimmer loading effects  
+• Skeleton loaders  
+• Theme management  
+• Dark / Light mode  
+
+### Performance Optimization
+
+• Widget tree optimization  
+• Reducing unnecessary rebuilds  
+• Efficient state updates  
+• Lazy loading techniques  
 
 ---
 
-## 🧪 TestAPI Tool
+# 🔗 API Integration
 
-Chrome extension for quick API testing
+Experience integrating **REST APIs in Flutter applications**.
+
+• HTTP / Dio networking  
+• JSON serialization  
+• Model parsing  
+• Error handling  
+• Retry strategies  
+• Secure API communication  
+
+---
+
+# 🔔 Firebase Integration
+
+• Firebase Authentication  
+• Firebase Cloud Messaging (FCM)  
+• Push notifications  
+• Firebase App Check  
+• Firebase Analytics  
+
+---
+
+# 📦 Dart Development
+
+Strong understanding of **core Dart concepts**.
+
+### Language Features
+
+• Object Oriented Programming  
+• Factory constructors  
+• Named constructors  
+• Mixins  
+• Generics  
+• Extension methods  
+• Null safety  
+
+### Collections & Data Handling
+
+• List / Map manipulation  
+• JSON serialization  
+• Data parsing  
+
+### Asynchronous Programming
+
+• Futures  
+• Streams  
+• async / await  
+• Event loop understanding  
+
+---
+
+# 🚀 Projects
+
+## 🧪 TestAPI Tool (Chrome Extension)
+
+Lightweight Chrome extension for quick API testing.
 
 Features
 
-• HTTP requests  
-• Header presets  
+• Send GET / POST / PUT / DELETE requests  
+• Custom headers  
 • Environment variables  
-• JSON viewer  
-• Response analytics  
+• Pretty JSON viewer  
+• Response status explanation  
+
+🔗 Chrome Web Store
+
+https://chromewebstore.google.com/detail/testapi-tool/oemjninopbfidcppomcengldnanofljb
+
+---
+
+# 📦 Dart Package
+
+## dev_loggers_flutter
+
+Flutter logging package designed to improve debugging.
+
+Features
+
+• structured logging  
+• readable debug output  
+• developer friendly logs  
+
+🔗 Pub.dev
+
+https://pub.dev/packages/dev_loggers_flutter
 
 ---
 
@@ -120,17 +224,7 @@ Features
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 👀 Visitors
+# 👀 Profile Visitors
 
 <p align="center">
 
@@ -144,12 +238,12 @@ Features
 
 <p align="center">
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="mailto:chandan9035@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="mailto:your-email">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
@@ -159,7 +253,7 @@ Features
 # ⚡ Fun Fact
 
 ```text
-I love building tools that make developers faster 🚀
+I love building developer tools and scalable mobile apps 🚀
 ```
 
 ---
