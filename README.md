@@ -16,7 +16,7 @@
 # 💼 Professional Experience
 
 ### **Lead Frontend Engineer | Herody (Jaketa Media and Entertainment)**
-*Bengaluru, India | 2024 – Present*
+*Bengaluru, India | 2025 – Present*
 
 I currently spearhead the entire mobile frontend ecosystem for **Herody**, a gig-work platform serving over **100k+ users**.
 
