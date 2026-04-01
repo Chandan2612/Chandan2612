@@ -1,273 +1,100 @@
-<!-- ================================================= -->
-<!-- 🚀 SUPER ANIMATED GITHUB PROFILE README -->
-<!-- ================================================= -->
-
 <div align="center">
 
-# 👋 Hi, I'm Chandan
+# 👋 Hi, I'm Chandan Kumar
 
-### 🚀 Flutter Developer | Mobile Engineer | API Builder
+### 📱 Lead Frontend Engineer at Herody | Flutter Specialist
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Flutter+Developer;Mobile+App+Engineer;Backend+Developer;Chrome+Extension+Developer;Dart+Package+Creator;Always+Learning+New+Tech"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Lead+Frontend+Engineer+@+Herody;Flutter+Architecture+Expert;Dart+Package+Maintainer;Full-Stack+Mobile+Solutions"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:chandan9035@gmail.com)
 
 </div>
 
 ---
 
-# 🧠 About Me
+# 💼 Professional Experience
 
-Flutter developer experienced in building **production mobile applications** with scalable architecture and performance optimization.
+### **Lead Frontend Engineer | Herody (Jaketa Media and Entertainment)**
+*Bengaluru, India | 2024 – Present*
 
-I focus on building **clean, maintainable, and scalable applications** using modern development practices.
+I currently spearhead the entire mobile frontend ecosystem for **Herody**, a gig-work platform serving over **100k+ users**.
 
-```text
-💻 Flutter developer building scalable mobile apps
-📱 Focused on performance, UI/UX and production-ready apps
-⚡ Backend development with Python FastAPI
-🧠 Interested in system design and architecture
-🛠 Building developer tools, Chrome extensions & Dart packages
-```
+* **Architecture & Scale:** Architected the core mobile application from scratch using **Flutter & BLoC**, ensuring a 99.9% crash-free rate.
+* **Feature Ownership:** Developed complex modules for real-time task tracking, automated merchant onboarding, and geofencing-based verification.
+* **Performance:** Optimized widget tree rendering and image caching, reducing app load time by **40%**.
+* **Security:** Implemented secure API communication layers and automated payment status integrations via REST/Dio.
 
 ---
 
-# 🧰 Tech Stack
+# 🧠 Tech Stack & Expertise
 
-### 📱 Mobile Development
-
+### 📱 Mobile & Web
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,html,css,js" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,firebase" />
+</p>
+
+### 🛠 Tools & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 
 ---
 
-### 🌐 Web Development
+# 🛠 Open Source & Products
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+### 🧪 [TestAPI Tool](https://chromewebstore.google.com/detail/testapi-tool/oemjninopbfidcppomcengldnanofljb) (Chrome Extension)
+A lightweight developer tool for testing REST APIs directly from the browser. 
+* **Impact:** Simplifies the debugging process for frontend developers without needing heavy external software.
 
----
-
-### ⚙ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres" />
-</p>
+### 📦 [dev_loggers_flutter](https://pub.dev/packages/dev_loggers_flutter) (Dart Package)
+A specialized logging utility designed to provide structured, readable, and feature-rich debug logs for Flutter applications.
 
 ---
 
-### 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,postman" />
-</p>
-
----
-
-# 🧠 Flutter & Dart Expertise
-
-## 📱 Flutter Development
-
-I build **production-grade Flutter applications** focusing on performance, scalability, and maintainability.
-
-### State Management
-
-• BLoC / Cubit  
-• Provider  
-• ChangeNotifier  
-• Separation of UI and business logic  
-
-### Architecture
-
-• MVVM architecture
-• Service layer architecture  
-• Repository pattern  
-• Feature-based folder structure  
-
-### UI Development
-
-• Responsive UI  
-• Custom animations  
-• Shimmer loading effects  
-• Skeleton loaders  
-• Theme management  
-• Dark / Light mode  
-
-### Performance Optimization
-
-• Widget tree optimization  
-• Reducing unnecessary rebuilds  
-• Efficient state updates  
-• Lazy loading techniques  
-
----
-
-# 🔗 API Integration
-
-Experience integrating **REST APIs in Flutter applications**.
-
-• HTTP / Dio networking  
-• JSON serialization  
-• Model parsing  
-• Error handling  
-• Retry strategies  
-• Secure API communication  
-
----
-
-# 🔔 Firebase Integration
-
-• Firebase Authentication  
-• Firebase Cloud Messaging (FCM)  
-• Push notifications  
-• Firebase App Check  
-• Firebase Analytics  
-
----
-
-# 📦 Dart Development
-
-Strong understanding of **core Dart concepts**.
-
-### Language Features
-
-• Object Oriented Programming  
-• Factory constructors  
-• Named constructors  
-• Mixins  
-• Generics  
-• Extension methods  
-• Null safety  
-
-### Collections & Data Handling
-
-• List / Map manipulation  
-• JSON serialization  
-• Data parsing  
-
-### Asynchronous Programming
-
-• Futures  
-• Streams  
-• async / await  
-• Event loop understanding  
-
----
-
-# 🚀 Projects
-
-## 🧪 TestAPI Tool (Chrome Extension)
-
-Lightweight Chrome extension for quick API testing.
-
-Features
-
-• Send GET / POST / PUT / DELETE requests  
-• Custom headers  
-• Environment variables  
-• Pretty JSON viewer  
-• Response status explanation  
-
-🔗 Chrome Web Store
-
-https://chromewebstore.google.com/detail/testapi-tool/oemjninopbfidcppomcengldnanofljb
-
----
-
-# 📦 Dart Package
-
-## dev_loggers_flutter
-
-Flutter logging package designed to improve debugging.
-
-Features
-
-• structured logging  
-• readable debug output  
-• developer friendly logs  
-
-🔗 Pub.dev
-
-https://pub.dev/packages/dev_loggers_flutter
-
----
-
-# 📊 GitHub Stats
+# 📊 Engineering Metrics
 
 <p align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chandan2612&show_icons=true&theme=tokyonight"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan2612&layout=compact&theme=tokyonight"/>
-
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
-
 <img src="https://streak-stats.demolab.com/?user=Chandan2612&theme=tokyonight"/>
-
 </p>
 
 ---
 
-# 📈 Contribution Activity
+# 🏗 Flutter Architectural Mastery
+
+* **State Management:** Advanced implementation of **BLoC/Cubit** for strict separation of concerns.
+* **Patterns:** Heavy use of **Repository Pattern** and **Dependency Injection (GetIt/Provider)**.
+* **UI/UX:** Expert in building high-fidelity custom animations and responsive layouts for 100+ device types.
+* **CI/CD:** Experience with Codemagic and GitHub Actions for automated app deployments.
+
+---
+
+# 🐍 Contribution Activity
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandan2612&theme=tokyo-night"/>
-
 </p>
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-# 👀 Profile Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Chandan2612&style=for-the-badge&color=blue"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:chandan9035@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
-
----
-
-# ⚡ Fun Fact
-
-```text
-I love building developer tools and scalable mobile apps 🚀
-```
+<br>
+<img src="https://komarev.com/ghpvc/?username=Chandan2612&style=for-the-badge&color=00F7FF"/>
+</div>
 
 ---
 
 <div align="center">
 
-⭐ If you like my work, consider starring my repositories!
+⭐ **"Code is like humor. When you have to explain it, it’s bad."** - Let's build something clean.
 
 </div>
