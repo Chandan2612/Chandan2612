@@ -4,7 +4,7 @@
 
 ### 🚀 Lead Frontend Engineer @ Herody | Flutter Specialist
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Flutter+Apps;Clean+Architecture+Advocate;BLoC+%7C+Performance+Optimization;Full-Stack+Mobile+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Flutter+Apps;Clean+Architecture+Advocate;BLoC+%7C+Performance+Optimization;Full-Stack+Mobile+Engineer;VS+Code+Extension+Developer"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:chandan9035@gmail.com)
@@ -36,20 +36,50 @@ Leading the mobile frontend for a **100k+ user gig platform**, focusing on scala
 ### ⚙️ Backend & Database
 <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,firebase" />
 
-### 🛠 Tools
+### 🛠 Tools & Extensions
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 
 ---
 
 # 🛠 Projects & Open Source
 
-### 🔧 TestAPI Tool (Chrome Extension)
+### 🔌 ADB Wireless Connect — VS Code Extension
+👉 https://marketplace.visualstudio.com/items?itemName=chandan2612.adb-wifi-connect  
+
+A developer-focused **VS Code extension** that helps Flutter and Android developers connect physical Android devices over WiFi using ADB with one click.
+
+**Key Features:**
+- 📱 Detects USB-connected Android devices
+- 🔁 Enables ADB TCP/IP mode
+- 🌐 Finds the phone’s WiFi IP address
+- ⚡ Connects the device wirelessly from VS Code
+- 🧩 Provides a simple sidebar-based developer workflow
+
+Built using **VS Code Extension API, TypeScript, Webviews, ADB commands, and Node.js**.
+
+---
+
+### 🔧 TestAPI Tool — Chrome Extension
 👉 https://chromewebstore.google.com/detail/testapi-tool/oemjninopbfidcppomcengldnanofljb  
+
 Lightweight API testing tool directly in the browser.
+
+**Key Features:**
+- 🚀 Test APIs directly from the browser
+- 🧪 Send requests quickly
+- ⚙️ Useful for developers while debugging endpoints
+
+---
 
 ### 📦 dev_loggers_flutter
 👉 https://pub.dev/packages/dev_loggers_flutter  
-Structured and developer-friendly logging for Flutter apps.
+
+Structured and developer-friendly logging package for Flutter apps.
+
+**Key Features:**
+- 🪵 Clean and readable logs
+- 🧩 Useful during development and debugging
+- 📱 Built specifically for Flutter developers
 
 ---
 
@@ -68,11 +98,13 @@ Structured and developer-friendly logging for Flutter apps.
 
 # 🏗 Architecture & Expertise
 
-- 🧠 **State Management:** BLoC / Cubit (production scale)
-- 🧩 **Architecture:** Clean Architecture, Repository Pattern
-- 🔌 **DI:** GetIt / Provider
-- 🎨 **UI/UX:** Smooth animations, responsive design (100+ devices)
+- 🧠 **State Management:** BLoC / Cubit for production-scale apps
+- 🧩 **Architecture:** Clean Architecture, MVVM, Repository Pattern
+- 🔌 **Dependency Injection:** GetIt / Provider
+- 🎨 **UI/UX:** Smooth animations, responsive design for multiple devices
 - ⚙️ **CI/CD:** Codemagic, GitHub Actions
+- 🧰 **Developer Tools:** Chrome Extensions, VS Code Extensions, automation tools
+- 🚀 **Performance:** App startup optimization, frame drop reduction, API optimization
 
 ---
 
